@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "xrpl-tagged-address-codec": "^0.2.0"
+    "xrpl-tagged-address-codec": "^0.2.1"
   }
 }
